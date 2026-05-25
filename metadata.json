@@ -1,0 +1,6 @@
+{
+  "name": "Remix: 智能排版翻译",
+  "description": "自动识别中英文句号，实现\u0027一句一段\u0027的排版格式。支持本地即时排版与Gemini智能语义排版。同时支持翻译",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
